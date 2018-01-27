@@ -1,0 +1,11 @@
+C:\projects\MenuSample\MenuSample\bin\Debug\MenuSample.exe.config
+C:\projects\MenuSample\MenuSample\bin\Debug\MenuSample.exe
+C:\projects\MenuSample\MenuSample\bin\Debug\MenuSample.pdb
+C:\projects\MenuSample\MenuSample\obj\Debug\MenuSample.csprojResolveAssemblyReference.cache
+C:\projects\MenuSample\MenuSample\obj\Debug\MenuSample.csproj.CoreCompileInputs.cache
+C:\projects\MenuSample\MenuSample\obj\Debug\MenuSample.exe
+C:\projects\MenuSample\MenuSample\obj\Debug\MenuSample.pdb
+C:\projects\MenuSample\MenuSample\bin\Debug\Avinode.Menu.BusinessObjects.dll
+C:\projects\MenuSample\MenuSample\bin\Debug\Avinode.Menu.Entities.dll
+C:\projects\MenuSample\MenuSample\bin\Debug\Avinode.Menu.BusinessObjects.pdb
+C:\projects\MenuSample\MenuSample\bin\Debug\Avinode.Menu.Entities.pdb
